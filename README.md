@@ -7,7 +7,7 @@ A machine learning pipeline for the [Kaggle House Prices: Advanced Regression Te
 ## Project Structure
 
 ```
-notebook.ipynb          # Main notebook (all steps below)
+aimes_housing.ipynb          # Main notebook (all steps below)
 submission_improved.csv # Generated Kaggle submission file
 ```
 
